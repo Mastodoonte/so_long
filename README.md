@@ -84,12 +84,12 @@ Example of a basic card:
 
 ```1111111111111111111111111111111111```
 
-- If a configuration error is detected, the program should exit cleanly and return "Error" followed by an explicit error message of your choice.
+If a configuration error is detected, the program should exit cleanly and return "Error" followed by an explicit error message of your choice.
 
 ## 👀 Game
 
 <div align="center">
   <img src="src/game.png" alt="picture of the game">
 <pr> 
-</div>a
+</div>
 <!--badges : https://badge42.vercel.app-->
